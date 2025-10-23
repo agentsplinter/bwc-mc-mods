@@ -21,7 +21,7 @@ Below are links to the individual repositories for each mod:
 | Mod Name | MD Link | CF Link | Main Version |
 |-----------|-----------------|-----------------|-----------------|
 | Effect Enchantment | [Mod Page](https://modrinth.com/mod/effect-enchantment) | [Mod Page](https://www.curseforge.com/minecraft/mc-mods/effect-enchantment) | 1.21.1 |
-| Seed Packages | [Mod Page](https://modrinth.com/project/seed-packages) | [N/A](https://www.curseforge.com/minecraft/mc-mods/seed-packages) | 1.21.1 |
+| Seed Packages | [Mod Page](https://modrinth.com/project/seed-packages) | [Mod Page](https://www.curseforge.com/minecraft/mc-mods/seed-packages) | 1.21.1 |
 | Subcraftica | [N/A](https://modrinth.com/mod/subcraftica) | [N/A](https://www.curseforge.com/minecraft/mc-mods/subcraftica) | Unreleased |
 
 ---
